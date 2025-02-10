@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hByk_12NBUW3bKebEd0qvNvgOMUFI3LH/view?usp=sharing](https://drive.google.com/file/d/1hByk_12NBUW3bKebEd0qvNvgOMUFI3LH/view?usp=sharing)
 
-- ⚡ Fun fact **Math lover! 😊**
+- ⚡ Fun fact **Sleeping alot! 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
