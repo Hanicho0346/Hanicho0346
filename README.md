@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hana Gebremedhin</h1>
-<h3 align="center">A Passionated full-stack developer from Ethiopia</h3>
+<h3 align="center">A Passionated Front-end developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanicho0346&label=Profile%20views&color=0e75b6&style=flat" alt="hanicho0346" /> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **React**
+- 👯 I’m looking to collaborate on **Javascript**
 
-- 🤝 I’m looking for help with **Nodejs**
+- 🤝 I’m looking for help with **React**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-u351.vercel.app/](https://portfolio-u351.vercel.app/)
 
