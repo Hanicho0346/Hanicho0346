@@ -2,8 +2,6 @@
 
 ### 🚀 Software Engineering Student | Frontend Developer | React Enthusiast
 
-I'm a passionate Software Engineering student focused on building modern web applications using JavaScript and React. I enjoy transforming ideas into user-friendly digital experiences and continuously improving my skills in frontend and full-stack development.
-
 ---
 
 ## 💫 About Me
